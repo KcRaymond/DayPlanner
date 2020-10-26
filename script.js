@@ -35,7 +35,7 @@ $(".saveBtn").on("click", function(){
     localStorage.setItem(time, value)
     
 })
-console.log(this);
+
 // Getting from local storage not sure how to loop this...
 $("#hour-8 .description").val(localStorage.getItem("hour-8"))
 $("#hour-9 .description").val(localStorage.getItem("hour-9"))
