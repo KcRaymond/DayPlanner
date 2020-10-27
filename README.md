@@ -20,4 +20,4 @@ THEN the saved events persist
 
 The following animation demonstrates the application functionality:
 
-[day planner demo](https://kcraymond.github.io/DayPlanner/)
+[Day planner demo](https://kcraymond.github.io/DayPlanner/)
